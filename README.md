@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saadi750
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++,python,java,HTML,CSS,JS,PHP.
 - 💞️ I’m looking to collaborate on DataStructures
 - 📫 How to reach me = khanswati750@gmail.com
 
